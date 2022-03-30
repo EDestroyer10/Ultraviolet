@@ -1,1 +1,7 @@
-
+{
+    "name": "UltraViolet",
+    "description": "This is a UltraViolet site edited my EDestroyer on discord.",
+    "repository": "https://github.com/EDestroyer10/Ultraviolet",
+    "logo": "https://raw.githubusercontent.com/titaniumnetwork-dev/Holy-Unblocker/master/views/assets/img/icon.png",
+    "keywords": ["UltraViolet", "womginx", "corrosion", "titaniumnetwork", "node", "proxy", "unblocker", "webproxy", "games"]
+}
